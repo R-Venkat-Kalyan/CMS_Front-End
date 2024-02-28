@@ -22,7 +22,7 @@ The frontend of the Counseling Management System is permanently accessible at: <
 
 ### Complete Deployed Application
 
-The complete deployed application, including the backend and frontend, is accessible at: <b><a href="https://cms-mongodb.onrender.com/" target="_blank">https://cms-mongodb.onrender.com/</a></b><br>.
+The complete deployed application, including the backend and frontend, is accessible at: <b><a href="https://cms-mongodb.onrender.com/" target="_blank">https://cms-mongodb.onrender.com/</a></b>.<br>
 Please note that the deployed url may take some time to load as it is deployed in a free cloud service provider site called as <a href = "https://render.com/" target = "_blank">render</a> and the database used over here is <a href = "https://www.mongodb.com/" target = "_blank">MongoDB</a>.
 
 
