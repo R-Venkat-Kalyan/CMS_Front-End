@@ -18,11 +18,11 @@ The Counseling Management System is a web application built with Java Spring Boo
 
 ### Frontend Only
 
-The frontend of the Counseling Management System is permanently accessible at: https://cms-front-end-pearl.vercel.app/
+The frontend of the Counseling Management System is permanently accessible at: <a href = "https://cms-front-end-pearl.vercel.app/" target="_blank">https://cms-front-end-pearl.vercel.app/</a>
 
 ### Complete Deployed Application
 
-The complete deployed application, including the backend and frontend, is accessible at: https://still-mongoose-typically.ngrok-free.app/
-Please note that the availability of this URL may vary.
+The complete deployed application, including the backend and frontend, is accessible at: <a href="https://cms-mongodb.onrender.com/" target="_blank">https://cms-mongodb.onrender.com/</a>.
+Please note that the deployed url may take some time to load as it is deployed in a free cloud service provider site called as <a href = "https://render.com/" target = "_blank">render</a> and the database used over here is <a href = "https://www.mongodb.com/" target = "_blank">MongoDB</a>.
 
 
